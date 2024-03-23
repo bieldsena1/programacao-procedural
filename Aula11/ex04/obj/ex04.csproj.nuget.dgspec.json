@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula10\\ex01\\ex01.csproj": {}
+    "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula11\\ex04\\ex04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula10\\ex01\\ex01.csproj": {
+    "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula11\\ex04\\ex04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula10\\ex01\\ex01.csproj",
-        "projectName": "ex01",
-        "projectPath": "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula10\\ex01\\ex01.csproj",
+        "projectUniqueName": "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula11\\ex04\\ex04.csproj",
+        "projectName": "ex04",
+        "projectPath": "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula11\\ex04\\ex04.csproj",
         "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula10\\ex01\\obj\\",
+        "outputPath": "C:\\Users\\IFSP\\Documents\\programacao-procedural\\aula11\\ex04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IFSP\\AppData\\Roaming\\NuGet\\NuGet.Config"
