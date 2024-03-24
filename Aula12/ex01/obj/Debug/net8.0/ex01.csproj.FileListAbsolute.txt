@@ -1,0 +1,15 @@
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ex01.sourcelink.json
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\bin\Debug\net8.0\ex01.exe
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\bin\Debug\net8.0\ex01.deps.json
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\bin\Debug\net8.0\ex01.dll
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\bin\Debug\net8.0\ex01.pdb
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ex01.dll
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\refint\ex01.dll
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ex01.pdb
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+c:\Users\IFSP\Documents\programacao-procedural\Aula12\ex01\obj\Debug\net8.0\ref\ex01.dll

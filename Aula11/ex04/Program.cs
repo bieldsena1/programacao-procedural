@@ -15,14 +15,14 @@ namespace HelloWorld
 			
 			for(int i = 0; i < 5; i++)
 			{
-			  nomes[i] = Console.ReadLine();
-			  idades[i] = int.Parse(Console.ReadLine());
-              ehCasado[i] = bool.Parse(Console.ReadLine()); 
+			    nomes[i] = Console.ReadLine();
+			    idades[i] = int.Parse(Console.ReadLine());
+                ehCasado[i] = bool.Parse(Console.ReadLine()); 
 			}
-			      Console.WriteLine("As pessoas casadas sao:");
+			Console.WriteLine("As pessoas casadas sao:");
             for(int i = 0; i < 5; i++)
             {
-                if(ehCasado[i] == true)
+                if(ehCasado[i])
                 {
                     Console.WriteLine(nomes[i] + ", de " + idades[i] + " anos");
                     
