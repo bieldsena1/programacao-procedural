@@ -7,6 +7,7 @@ class Program
         const int MATRIZ = 4;
         int[,] numeros = new int[MATRIZ,MATRIZ];
         int somatorio = 0;
+        
         for(int linha = 0; linha < MATRIZ; linha++)
         {
             for(int coluna = 0; coluna < MATRIZ; coluna++)
@@ -14,6 +15,7 @@ class Program
                 numeros[linha,coluna] = int.Parse(Console.ReadLine());
             }
         }
+        
         int escolhaNumero = int.Parse(Console.ReadLine());
         if(escolhaNumero == 1)
         {
@@ -43,7 +45,7 @@ class Program
             {
                 for(int coluna = 0; coluna < MATRIZ; coluna++)
                 {
-                    if(coluna % 2 == 0)
+                    if(linha == 2)
                     {
                         somatorio+= numeros[linha,coluna];
                     }
